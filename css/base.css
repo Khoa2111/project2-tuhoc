@@ -17,7 +17,8 @@ html {
     font-size: 62.5%;
     line-height: 1.6rem;
     font-family: 'Poppins',Helvetica, Arial, sans-serif;
-    
+    scroll-behavior: smooth;
+
 }
 /* canh layout vô giữa */
 .st {
